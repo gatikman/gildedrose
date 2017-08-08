@@ -7,7 +7,7 @@ import org.junit.Test;
 public class GildedRoseTest {
 
     
-   //Test
+   //Unit
     /*
     @Test
     public void foo() {
